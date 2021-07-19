@@ -1,4 +1,4 @@
-# OpenCV-MinGW-Build
+# OpenCV-MinGW-Build-各版本opencv大杂烩
 
 MinGW 32bit and 64bit version of OpenCV compiled on Windows.
 
